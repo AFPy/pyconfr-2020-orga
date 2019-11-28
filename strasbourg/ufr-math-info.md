@@ -16,26 +16,26 @@ Pour l'instant ça se passe [sur ce framapad](https://bimestriel.framapad.org/p/
 
 # Photos
 
-![ufr-mathinfo-1][pictures/ufr-mathinfo-1.jpg]
+![ufr-mathinfo-1](pictures/ufr-mathinfo-1.jpg)
 
-![ufr-mathinfo-2][pictures/ufr-mathinfo-2.jpg]
+![ufr-mathinfo-2](pictures/ufr-mathinfo-2.jpg)
 
-![ufr-mathinfo-3][pictures/ufr-mathinfo-3.jpg]
+![ufr-mathinfo-3](pictures/ufr-mathinfo-3.jpg)
 
-![ufr-mathinfo-4][pictures/ufr-mathinfo-4.jpg]
+![ufr-mathinfo-4](pictures/ufr-mathinfo-4.jpg)
 
-![ufr-mathinfo-5][pictures/ufr-mathinfo-5.jpg]
+![ufr-mathinfo-5](pictures/ufr-mathinfo-5.jpg)
 
-![ufr-mathinfo-6][pictures/ufr-mathinfo-6.jpg]
+![ufr-mathinfo-6](pictures/ufr-mathinfo-6.jpg)
 
-![ufr-mathinfo-7][pictures/ufr-mathinfo-7.jpg]
+![ufr-mathinfo-7](pictures/ufr-mathinfo-7.jpg)
 
-![ufr-mathinfo-8][pictures/ufr-mathinfo-8.jpg]
+![ufr-mathinfo-8](pictures/ufr-mathinfo-8.jpg)
 
-![ufr-mathinfo-9][pictures/ufr-mathinfo-9.jpg]
+![ufr-mathinfo-9](pictures/ufr-mathinfo-9.jpg)
 
-![ufr-mathinfo-10][pictures/ufr-mathinfo-10.jpg]
+![ufr-mathinfo-10](pictures/ufr-mathinfo-10.jpg)
 
-![ufr-mathinfo-11][pictures/ufr-mathinfo-11.jpg]
+![ufr-mathinfo-11](pictures/ufr-mathinfo-11.jpg)
 
-![ufr-mathinfo-12][pictures/ufr-mathinfo-12.jpg]
+![ufr-mathinfo-12](pictures/ufr-mathinfo-12.jpg)
