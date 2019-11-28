@@ -14,4 +14,4 @@ Qu'est-ce qu'il nous manque, qu'est-ce que vous pouvez faire :
 
 Dans tous les cas, vous pouvez vous en écrivant directement à pyconfr-orga at lists.afpy.org.
 
-[cahier de charges]: cdc-choix-du-lieu.md
+[cahier de charges]: cdc-choix-du-lieux.md
