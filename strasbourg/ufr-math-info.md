@@ -34,7 +34,7 @@ Pour l'instant ça se passe [sur ce framapad](https://bimestriel.framapad.org/p/
 
 ## EOST
 
-![ufr-mathinfo-1](pictures/EOST/ESOT.jpg)
+![ufr-mathinfo-1](pictures/EOST/EOST.jpg)
 
 ## C9
 
