@@ -16,26 +16,44 @@ Pour l'instant ça se passe [sur ce framapad](https://bimestriel.framapad.org/p/
 
 # Photos
 
-![ufr-mathinfo-1](pictures/ufr-mathinfo-1.jpg)
+## Plan Générale
 
-![ufr-mathinfo-2](pictures/ufr-mathinfo-2.jpg)
+![ufr-mathinfo-1](pictures/plan.png)
 
-![ufr-mathinfo-3](pictures/ufr-mathinfo-3.jpg)
+## GAM
 
-![ufr-mathinfo-4](pictures/ufr-mathinfo-4.jpg)
+![ufr-mathinfo-1](pictures/GAM/GAM01.jpg)
+![ufr-mathinfo-1](pictures/GAM/GAM02.jpg)
+![ufr-mathinfo-1](pictures/GAM/GAM03.jpg)
 
-![ufr-mathinfo-5](pictures/ufr-mathinfo-5.jpg)
+## PAM
 
-![ufr-mathinfo-6](pictures/ufr-mathinfo-6.jpg)
+![ufr-mathinfo-1](pictures/PAM/PAM01.jpg)
+![ufr-mathinfo-1](pictures/PAM/PAM02.jpg)
+![ufr-mathinfo-1](pictures/PAM/PAM03.jpg)
 
-![ufr-mathinfo-7](pictures/ufr-mathinfo-7.jpg)
+## EOST
 
-![ufr-mathinfo-8](pictures/ufr-mathinfo-8.jpg)
+![ufr-mathinfo-1](pictures/EOST/ESOT.jpg)
 
-![ufr-mathinfo-9](pictures/ufr-mathinfo-9.jpg)
+## C9
 
-![ufr-mathinfo-10](pictures/ufr-mathinfo-10.jpg)
+![ufr-mathinfo-1](pictures/C9/C901.jpg)
+![ufr-mathinfo-1](pictures/C9/C902.jpg)
+![ufr-mathinfo-1](pictures/C9/C903.jpg)
 
-![ufr-mathinfo-11](pictures/ufr-mathinfo-11.jpg)
+## Autre
 
-![ufr-mathinfo-12](pictures/ufr-mathinfo-12.jpg)
+### Pause café
+
+![ufr-mathinfo-1](pictures/AUTRE/pausecafe.jpg)
+
+### Sponsors
+
+![ufr-mathinfo-1](pictures/AUTRE/sponsors.jpg)
+
+### Salles sprint
+
+![ufr-mathinfo-1](pictures/AUTRE/sprints01.jpg)
+![ufr-mathinfo-1](pictures/AUTRE/sprints02.jpg)
+![ufr-mathinfo-1](pictures/AUTRE/couloir.jpg)
