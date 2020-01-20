@@ -1,7 +1,7 @@
 Candidature de Strasbourg
 ==========================
 
-L'UFR de Math-Info de Strasbourg est super motivée !
+L'UFR de Math-Info de Strasbourg est super motivé !
 
 Qu'est-ce qu'il nous manque, qu'est-ce que vous pouvez faire :
 
@@ -13,8 +13,8 @@ Dans tous les cas, vous pouvez vous en écrivant directement à pyconfr-orga at 
 
 Etat actuel
 ------------
-* 2 volontaires sous places (donc 2 adresses)
-* Plusieurs idées de lieux côté Université
+* 3 volontaires sous places (donc 3 adresses)
+* Contact avec plusieurs associations locales (dont l'AIUS, Hackstub, Strashack.fr, ...)
 * Une petite liste de food-trucks
 * Quelques événement locaux pour la com'
 * Ebauche d'un Guide Participant
@@ -32,7 +32,7 @@ Nos idées
 -----------
 
 Université Mathématiques 
-* 2 amphi de 300 places et deux grandes salles 100 places, des salles d'atelier
+* 2 amphi de 300 places (PAM et GAM) et deux grandes salles 100 places (C9, amphithéatre EOST), des salles d'atelier
 * Des espaces pour sponsors, petit-dej, salle de repos, salle de travail...
 * les strapomtins des amphis ne font pas trop de bruit :)
 * C'est proche du centre-ville (14min à pied de la cathédrale, 6min à vélo) pour la soirée c'est idéal
