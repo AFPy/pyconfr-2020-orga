@@ -1,6 +1,8 @@
 Candidature de Strasbourg
 ==========================
 
+https://bimestriel.framapad.org/p/bischheim_20pycon
+
 L'UFR de Math-Info de Strasbourg est super motivé !
 
 Qu'est-ce qu'il nous manque, qu'est-ce que vous pouvez faire :
