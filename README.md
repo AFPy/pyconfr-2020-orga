@@ -15,3 +15,19 @@ Qu'est-ce qu'il nous manque, qu'est-ce que vous pouvez faire :
 Dans tous les cas, vous pouvez vous en écrivant directement à pyconfr-orga at lists.afpy.org.
 
 [cahier de charges]: cdc-choix-du-lieux.md
+
+TODO - Avancement
+=================
+
+- [ ] Signature de la convention :
+  - [x] convention faite
+  - [x] convention signée côté AFPy
+  - [ ] convetion signée côté UFR math-info
+- [ ] Reservation des salles :
+  - [x] Vincent Blanloeil, directeur de l'UFR-Math, a envoyé un email à `mai-reservesalles`
+  - [x] Sandrine Alberelli, Responsable Administrative, a envoyé un email de confirmation (suite à la signature de la convention)
+  - [ ] Confirmation de réservation par `mai-reservesalles`
+- [ ] Accord pour les foodtrucks:
+  - [ ] Sandrine Alberelli, contacte personel université pour l'accord
+- [ ] Demande gardiennage / vigiles:
+  - [ ] @lasofivec: ecrire à `secu event` (unistra)
