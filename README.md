@@ -28,6 +28,6 @@ TODO - Avancement
   - [x] Sandrine Alberelli, Responsable Administrative, a envoyé un email de confirmation (suite à la signature de la convention)
   - [ ] Confirmation de réservation par `mai-reservesalles`
 - [ ] Accord pour les foodtrucks:
-  - [ ] Sandrine Alberelli, contacte personel université pour l'accord
+  - [ ] Sandrine Alberelli, contacte personnel université pour l'accord
 - [ ] Demande gardiennage / vigiles:
-  - [ ] @lasofivec: ecrire à `secu event` (unistra)
+  - [ ] @lasofivec: écrire à `secu event` (unistra)
